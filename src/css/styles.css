@@ -71,6 +71,7 @@ body {
 
 .load-more {
   display: none;
+  /* margin-top: 20px; */
   text-align: center;
   margin: 20px auto 0;
   background-color: #3933ff;
