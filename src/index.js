@@ -25,7 +25,7 @@ loadMoreButton.addEventListener('click', async function () {
 });
 
 async function searchImages(query, page) {
-  const key = '36589394-2143494a5fc7170f91521e5d8';
+  const key = '37002105-a10eeb22943de1726cde568cc';
   const perPage = 40;
 
   const url = `https://pixabay.com/api/?key=${key}&q=${encodeURIComponent(
